@@ -1,0 +1,41 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+29
+'dijite el numero de la rifa'
+5
+1
+3
+num
+7
+0
+1
+18
+num>=1 and num<=99
+4
+1
+18
+'numero no valido'
+13
+7
+0
+1
+15
+num=7 or num=43
+4
+1
+24
+'intente la proxima vez'
+13
+4
+1
+9
+'ganaste'
+13
+13
+1
